@@ -17,6 +17,6 @@
  - I have created a sample **tictactoe bot** under the tictactoe folder. It's an executable file so your windows may warn against it, but it's okay, there is no virus in this file.
  - After the deadline, I will show you my source code and close this repo. If you want to have my gift, there are 3 requirements:
     - Your code must be clean with comment on each of its functions.
-    - Do not using the kind of **if-else bot**.
-    - Pull request to this file before the deadline.
+    - Do not using the kind of **if-else bot** and I must not win this bot.
+    - Pull request to this repo before the deadline.
  - This is the end of the instructions. If you have any questions, post it on discord. Happy coding.
